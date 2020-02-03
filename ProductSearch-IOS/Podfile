@@ -1,0 +1,13 @@
+platform :ios, '10.0'
+
+target 'ProductSearch2' do
+  use_frameworks!
+
+  # Pods for ProductSearch
+    pod 'SwiftyJSON'
+    pod 'Alamofire'
+    pod 'McPicker'
+    pod 'Toast-Swift'
+    pod 'SwiftSpinner'
+end
+
